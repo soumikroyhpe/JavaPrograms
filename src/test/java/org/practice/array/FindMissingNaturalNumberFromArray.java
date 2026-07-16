@@ -8,7 +8,7 @@ public class FindMissingNaturalNumberFromArray {
 
         int actualSum = 0;
 
-        // finding the sum of present array elements
+        // finding the sum of present array elements'
         for (int a : numbers) {
             actualSum = actualSum + a;
         }
